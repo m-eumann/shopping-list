@@ -1,0 +1,9 @@
+{
+  "getShoppingListItems": [
+    {
+      "id": 1,
+      "title": "hello",
+      completed: false,
+    }
+  ],
+}
