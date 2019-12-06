@@ -1,9 +1,11 @@
 {
-  "getShoppingListItems": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "completed": false,
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
